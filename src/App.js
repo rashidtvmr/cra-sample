@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+        <ion-icon name="heart"></ion-icon>
+        <ion-icon ios="heart-outline" md="heart-sharp"></ion-icon>
       </header>
     </div>
   );
